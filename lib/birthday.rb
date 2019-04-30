@@ -11,7 +11,7 @@ def happy_birthday(birthday_kids)
   end
 end
 
-=begin
+
 def age_appropriate_birthday(birthday_kids)
   birthday_kids.eac do |kids_name, age|
     if age <= 12
@@ -21,4 +21,3 @@ def age_appropriate_birthday(birthday_kids)
     end
   end
 end
-=end
